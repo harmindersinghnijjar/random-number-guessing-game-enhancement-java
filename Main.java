@@ -1,3 +1,17 @@
+/*
+
+Programmer: Harminder Singh Nijjar
+
+Assignment Chapter: Chapter 5
+
+Purpose: The purpose of the Java program is to generate a random number and have the user guess what it is. Depending on the user's guess, the program will provide 
+feedback to the user (e.g. too high/too low) and keep track of the number of guesses until the user correctly guesses the random number.
+
+Date modified: 11/30/2022
+
+IDE/Tool used: IntelliJ IDEA
+
+*/
 
 import java.util.Random;
 import java.util.Scanner;
